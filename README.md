@@ -18,5 +18,5 @@ $ npm run start
 ## Environment Variables
 
 ```
-API_KEY=93d6e2cb06709304a45b48b9c3e8bb86
+API_KEY=value
 ```
